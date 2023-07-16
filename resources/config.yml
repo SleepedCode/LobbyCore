@@ -1,0 +1,17 @@
+servers:
+  server1:
+    format: "&l&6Server 1"
+    ip_port: "play.infinitymcpe.com:19132"
+  server2:
+    format: "&l&6Server 2"
+    ip_port: "play.infinitymcpe.com:19132"
+
+scoreboard:
+  title: "&l&6LobbyCore &r&7(v1.0.0)"
+  lines:
+    - "&7--------------------"
+    - "&l&bName&r&7: {name}"
+    - "&l&bPlayers&r&7: {players}/100"
+    - " "
+    - "play.server.com"
+    - "&7&7--------------------"
